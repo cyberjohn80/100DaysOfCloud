@@ -16,11 +16,11 @@ Once logged into Azure portal, look around to explore what the homepage has to o
 
 Homepage: https://portal.azure.com/
 
-![image](https://user-images.githubusercontent.com/82836111/138773476-3892803c-fd84-4acf-a584-d69bf65946e6.png)
+![image]()
 
 ### Step 2
 
-Click on "Services". Here you will find the whole list of Azure services available.
+Click on "All Services". Here you will find the whole list of Azure services available.
 
 ### Step 3
 
