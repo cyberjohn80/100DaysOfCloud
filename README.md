@@ -10,20 +10,20 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## John s Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+Hi I am John Stockton I am a Applications Support Engineer at NHSBT, I come from a cyber security background and recently moved in to infrastructure  and the cloud space. 
 
-[✍️ Introduce yourself]
+I started the challenge because I feel I work better with a routine and schedule and giving myself 100 days to work on this alongside my day job will provide me with a new skill and hopefully access to a wider community where I hope to share back my learnings.
 
-[✍️ Tell us why you started this challenge]
+By the end of the challenge, I would like to have a good foundational understanding of Azure Cloud Platform and possibly the other Microsoft products as well
+## Social Media
+- [Twitter](https://twitter.com/cyberjohn80)
+- [LinkedIn](https://www.linkedin.com/in/john-stockton-107a4ab1/)
 
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+## where I want to be at the end of the challenge
+- Pass AZ-900
+- Pass AZ-104
 
 ## Stepping out the door
 
