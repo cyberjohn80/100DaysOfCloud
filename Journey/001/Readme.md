@@ -1,4 +1,4 @@
-# Day 0 - Exploration
+# Day 1 - Exploration
 
 Account creation, access, and tour of Azure Portal
 
