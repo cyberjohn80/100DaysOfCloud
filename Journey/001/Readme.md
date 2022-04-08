@@ -26,6 +26,3 @@ Click on "All Services". Here you will find the whole list of Azure services ava
 
 EXPLORE.
 
-## Social Proof
-
-[Twitter]()
