@@ -1,11 +1,10 @@
 # Day 0 - Exploration
 
-Account creation, access, and tour of AWS console.
+Account creation, access, and tour of Azure Portal
 
 ## Prerequisite
 
-Register for an Azure account.
-Register: aws.amazon.com
+Register for an Azure account: https://portal.azure.com/
 
 
 ### Step 1
