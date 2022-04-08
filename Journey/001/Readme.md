@@ -1,8 +1,30 @@
-# Day 1 - Getting things setup on GitHub
+# Day 0 - Exploration
 
-## Cloud Research
+Account creation, access, and tour of AWS console.
 
-- Today I started the 100DaysOfCloud project with a copy of the template, ready to get going into the weeds tomorrow!
+## Prerequisite
+
+Register for an Azure account.
+Register: aws.amazon.com
+
+
+### Step 1
+
+Azure portal is a web application that consists and refers to a complete collection of service consoles for managing your applications. When you log in, you see the console home page.
+
+Once logged into Azure portal, look around to explore what the homepage has to offer.
+
+Homepage: https://portal.azure.com/
+
+![image]()
+
+### Step 2
+
+Click on "All Services". Here you will find the whole list of Azure services available.
+
+### Step 3
+
+EXPLORE.
 
 ## Social Proof
 
