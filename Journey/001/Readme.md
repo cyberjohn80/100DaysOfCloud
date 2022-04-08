@@ -16,7 +16,7 @@ Once logged into Azure portal, look around to explore what the homepage has to o
 
 Homepage: https://portal.azure.com/
 
-![image](Journey/001/AZURE.PNG)
+![image](https://user-images.githubusercontent.com/97246467/162422289-bc6c6e38-b3e4-4392-bf97-d3c24b14b422.png)
 
 ### Step 2
 
