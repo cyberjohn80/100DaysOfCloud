@@ -25,10 +25,10 @@ By the end of the challenge, I would like to have a good foundational understand
 - Pass AZ-900
 - Pass AZ-104
 
-## Stepping out the door
-
+## Head in the Clouds
+- [ ] ☁️ 0 > [Exploration](Journey/000/Readme.md)
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [ ] ☁️ 2 > [Deploy a Virtual Machine in Azure](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
