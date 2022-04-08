@@ -28,4 +28,4 @@ EXPLORE.
 
 ## Social Proof
 
-[Twitter](https://twitter.com/cyberjohn80/status/1512358324171386881)
+[Twitter]()
