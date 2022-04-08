@@ -16,7 +16,7 @@ Once logged into Azure portal, look around to explore what the homepage has to o
 
 Homepage: https://portal.azure.com/
 
-![image]()
+![image](Journey/001/AZURE.PNG)
 
 ### Step 2
 
