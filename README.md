@@ -21,7 +21,7 @@ By the end of the challenge, I would like to have a good foundational understand
 - [Twitter](https://twitter.com/cyberjohn80)
 - [LinkedIn](https://www.linkedin.com/in/john-stockton-107a4ab1/)
 
-## where I want to be at the end of the challenge
+## Where I want to be at the end of the challenge
 - Pass AZ-900
 - Pass AZ-104
 
