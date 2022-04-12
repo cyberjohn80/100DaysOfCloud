@@ -1,5 +1,19 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![image](https://user-images.githubusercontent.com/97246467/163008185-110ef96e-d645-4355-843c-f9b778b8b338.png)
+
+## Introduction
+I am currently working towards my AZ-900 exam and todays learning is all about configuring and deploying a Windows Virtual Machine, The following will walk through the process required to undertake this task.
+
+## Prerequisite
+
+An Azure subscription and enough administrator permissions to deploy resource groups, virtual networks, and virtual machines.
+
+## Steps to create a ceate a web app
+In this walkthrough, we will create a web app that runs a Docker container. The Docker container contains a Welcome message.
+
+Azure App Service are actually a collection of four services, all of which are built to help you host and run web applications. The four services (Web Apps, Mobile Apps, API Apps, and Logic Apps) look different, but in the end they all operate in very similar ways. Web Apps are the most commonly used of the four services, and this is the service that we will be using in this lab 
+
+
+# Task 1: Create a Web App
 
 # New post title here
 
