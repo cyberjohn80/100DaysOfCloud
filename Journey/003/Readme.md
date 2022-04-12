@@ -13,54 +13,74 @@ In this walkthrough, we will create a web app that runs a Docker container. The 
 Azure App Service are actually a collection of four services, all of which are built to help you host and run web applications. The four services (Web Apps, Mobile Apps, API Apps, and Logic Apps) look different, but in the end they all operate in very similar ways. Web Apps are the most commonly used of the four services, and this is the service that we will be using in this lab 
 
 
-# Task 1: Create a Web App
+# Task 1: Create a Web App 
 
-# New post title here
+In this task, you will create an Azure App Service Web App. 
 
-## Introduction
+1. Sign-in to the [Azure portal](http://portal.azure.com/). 
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+2. From the **All services** blade, search for and select **App Services**,and click **+ Add, + Create, + New**
 
-## Prerequisite
+![image](https://user-images.githubusercontent.com/97246467/163011567-50e5eb56-08aa-4b28-8c00-04a4ab91e012.png)
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+![image](https://user-images.githubusercontent.com/97246467/163011651-b5d7a3d0-7202-4136-a3c4-f9baaeb74545.png)
 
-## Use Case
+![image](https://user-images.githubusercontent.com/97246467/163011882-85086c3c-9fdb-4e2a-a1e4-a01198512141.png)
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+3. On the **Basics** tab of the **Web App** blade, specify the following settings (replace **xxxx** in the name of the web app with letters and digits such that the name is globally unique). Leave the defaults for everything else, including the App Service Plan. 
 
-## Cloud Research
+    | Setting | Value |
+    | -- | -- |
+    | Subscription | **Use default supplied** |
+    | Resource Group | **Create new resource group**|
+    | Name | **myDockerWebAppxxxx** |
+    | Publish | **Docker Container** |
+    | Operating System | **Linux** |
+    | Region | **UK West** |
+    
+     
+  ![image](https://user-images.githubusercontent.com/97246467/163011984-c8315f07-690b-4d9e-8e18-2729ffec53a9.png)
+    
+  ![image](https://user-images.githubusercontent.com/97246467/163012063-5cfc2fd0-fd78-401b-9c55-edc52faaba26.png)
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+    
+    **Note:** Remember to change the **xxxx** so that your Web App name is unique.
 
-## Try yourself
+4. Click **Next > Docker** and configure the container information.  
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+    | Setting | Value |
+    | -- | -- |
+    | Options | **Single container** |
+    | Image Source | **Docker Hub** |
+    | Access Type | **Public** |
+    | Image and tag | **mcr.microsoft.com/azuredocs/aci-helloworld** |
+   
+![image](https://user-images.githubusercontent.com/97246467/163012286-d1634800-33ff-43cd-8519-3f35a58296c2.png)
 
-### Step 1 — Summary of Step
+ **Note:** The startup command is optional and not needed in this exercise.
 
-![Screenshot](https://via.placeholder.com/500x300)
+5. Click **Review + create**, and then click **Create**. 
 
-### Step 1 — Summary of Step
+# Task 2: Test the Web App
 
-![Screenshot](https://via.placeholder.com/500x300)
+In this task, we will test the web app.
 
-### Step 3 — Summary of Step
+1. Wait for the Web App to deploy.
 
-![Screenshot](https://via.placeholder.com/500x300)
+2. From **Notifications** click **Go to resource**. 
 
-## ☁️ Cloud Outcome
+![image](https://user-images.githubusercontent.com/97246467/163012652-bbd0fadd-02a3-4f43-9722-ebd6fc6f05a8.png)
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+3. On the **Overview** blade, locate the **URL**. Copy the URL to the clipboard.
 
-## Next Steps
+![image](https://user-images.githubusercontent.com/97246467/163012918-06f0632a-b201-444e-b70c-59a47c731f6f.png)
 
-✍️ Describe what you think you think you want to do next.
+4. In a new browser window, paste the URl and press enter. The Welcome to Azure Container Instances! welcome message will be displayed.
 
-## Social Proof
+ ![image](https://user-images.githubusercontent.com/97246467/163013214-3529d1f7-dd69-495c-821d-9c5f44157e04.png)
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+5. Switch back to the **Overview** blade of your web app and scroll down. You will notice several charts tracking Data In/Out and Requests. If you repeat step 4 a few times, you should be able to see corresponding telemetry being displayed in these charts. This includes number of requests and average response time. 
 
-[link](link)
+![image](https://user-images.githubusercontent.com/97246467/163013350-9fe25d59-4ca7-4a06-b23e-4c6ed734fbb1.png)
+
+Congratulations you successfully created an Azure App Service.
