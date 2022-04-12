@@ -7,7 +7,7 @@ I am currently working towards my AZ-900 exam and todays learning is all about c
 
 An Azure subscription and enough administrator permissions to deploy resource groups, virtual networks, and virtual machines.
 
-## Steps to create a ceate a web app
+## Steps to create a web app
 In this walkthrough, we will create a web app that runs a Docker container. The Docker container contains a Welcome message.
 
 Azure App Service are actually a collection of four services, all of which are built to help you host and run web applications. The four services (Web Apps, Mobile Apps, API Apps, and Logic Apps) look different, but in the end they all operate in very similar ways. Web Apps are the most commonly used of the four services, and this is the service that we will be using in this lab 
