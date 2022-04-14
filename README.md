@@ -31,7 +31,7 @@ By the end of the challenge, I would like to have a good foundational understand
 - [ ] ☁️ 2 > [Deploy a Virtual Machine in Azure](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [Create a Web App](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Deploy Azure Container Instances](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
+- [ ] ☁️ 5 > [Create a virtual network](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
