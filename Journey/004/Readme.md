@@ -1,17 +1,17 @@
 ![image](https://user-images.githubusercontent.com/97246467/163352852-a74ad9d1-f61f-482d-bc0c-a19291e9880e.png)
 
-## Introduction
+# Introduction
 I am currently working towards my AZ-900 exam and todays learning is all about creating, configuring, and deploying a container by using Azure Container Instances (ACI) in the Azure Portal, The following will walk through the process required to undertake this task.
 
 ## Prerequisite
 
 An Azure subscription and enough administrator permissions to deploy resource groups, virtual networks, and virtual machines.
 
-#Deploy Azure Container Instances (10 min)
+##Deploy Azure Container Instances (10 min)
 
 In this walkthrough we create, configure, and deploy a container by using Azure Container Instances (ACI) in the Azure Portal. The container is a Welcome to ACI web application that displays a static HTML page. 
 
-# Task 1: Create a container instance 
+##Task 1: Create a container instance 
 
 In this task, we will create a new container instance for the web application.  
 
@@ -65,7 +65,7 @@ In this task, we will create a new container instance for the web application.
 7. Monitor the deployment page and the **Notifications** page. 
 
 
-# Task 2: Verify deployment of the container instance
+## Task 2: Verify deployment of the container instance
 
 In this task, we verify that the container instance is running by ensuring that the welcome page displays.
 
