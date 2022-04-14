@@ -114,18 +114,24 @@ In this task, we will try to test whether the virtual machines can communicate (
 
 4. Open the downloaded RDP file (located at the bottom left of you VM) and click **Connect** when prompted. 
 5. 
-![5](https://user-images.githubusercontent.com/97246467/163363673-ec5195e2-6a56-4bf7-beca-99a6db1cf4e7.PNG)
+    ![5](https://user-images.githubusercontent.com/97246467/163363673-ec5195e2-6a56-4bf7-beca-99a6db1cf4e7.PNG)
 
 5. In the **Windows Security** window, type the username **azureuser** and password **Pa$$w0rd1234** and then click **OK**.
 
-6. You may receive a certificate warning during the sign-in process. Click **Yes** to create the connection and connect to your deployed VM. You should connect successfully. Close the Windows Server and Dashboard windows that pop up. You should see a Blue Windows background. You are now in your virtual machine.
-
-
     ![6](https://user-images.githubusercontent.com/97246467/163363794-5b008dd3-af48-46a8-9212-10e0808b3426.PNG)
+
+   ![12](https://user-images.githubusercontent.com/97246467/163364605-a716f2c5-8fea-44db-a539-641c8f1eb165.PNG)
+
+
+6. You may receive a certificate warning during the sign-in process. Click **Yes** to create the connection and connect to your deployed VM. You should connect successfully. Close the Windows Server and Dashboard windows that pop up. You should see a Blue Windows background. You are now in your virtual machine.
 
     ![7](https://user-images.githubusercontent.com/97246467/163363804-c4b50e96-ed36-4df3-bbfb-e3b0a4d127b9.PNG)
 
-7. In **both** newly created virtual machines, connect via RDP and disable both the public and private firewall by opening the Start menu > Settings > Network and Internet > Locate Windows Firewall.
+7. In **both** newly created virtual machines, connect via RDP and disable both the public and private firewall by opening the Start menu > Settings > Network and Internet > Locate Windows Firewall. Or via the server manger > Local Server > Windows Defender Firewall.
+
+    ![8](https://user-images.githubusercontent.com/97246467/163365344-4da906e9-e389-4ab9-8c75-2419291ee2d9.PNG)
+
+    ![9](https://user-images.githubusercontent.com/97246467/163365346-b441a080-b030-4e3b-9303-6e189d834464.PNG)
 
 8. Open up PowerShell on the virtual machine by clicking the **Start** button, and in Search type **PowerShell**, right click on **Windows PowerShell** to **Run as administrator**
 
@@ -134,8 +140,11 @@ In this task, we will try to test whether the virtual machines can communicate (
    ```PowerShell
    ping vm2
    ```
+   ![10](https://user-images.githubusercontent.com/97246467/163364678-bb1baaaf-050e-4222-b2ae-bf96378201e7.PNG)
+
 
  10. You should be successful. You have pinged VM2 from VM1.
 
+   ![11](https://user-images.githubusercontent.com/97246467/163364744-c1678423-e6db-4829-80b5-bbe14a19e9c1.PNG)
 
 **Congratulations!** You have configured and deployed two virtual machines in a virtual network, and then you were able to connect them.
