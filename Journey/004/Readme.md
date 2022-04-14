@@ -22,7 +22,7 @@ In this task, we will create a new container instance for the web application.
 	![screenshot All services](https://user-images.githubusercontent.com/97246467/163351061-50d8f641-5f09-4535-9609-e0b8289670b1.PNG)
 
 
-	![![screenshot Container instances](https://user-images.githubusercontent.com/97246467/163350789-bd9081af-c4b9-4d06-927c-12e360669034.PNG)
+	![screenshot Container instances](https://user-images.githubusercontent.com/97246467/163350789-bd9081af-c4b9-4d06-927c-12e360669034.PNG)
 
 
 	![screenshot create](https://user-images.githubusercontent.com/97246467/163351310-d0ca3283-755a-4dee-aa92-9d36e0600971.PNG)
