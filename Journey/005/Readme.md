@@ -1,6 +1,6 @@
    ![image](https://user-images.githubusercontent.com/97246467/163365500-117d3cbd-40fc-4dae-9062-2cdbcd432df3.png)
 # Introduction
-I am currently working towards my AZ-900 exam and todays learning is all about creating, configuring, and deploying a container by using Azure Container Instances (ACI) in the Azure Portal, The following will walk through the process required to undertake this task.
+I am currently working towards my AZ-900 exam and todays learning is all about creating, a virtual network with two VM's, The following will walk through the process required to undertake this task.
 
 ## Prerequisite
 
