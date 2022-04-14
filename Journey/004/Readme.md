@@ -11,7 +11,7 @@ An Azure subscription and enough administrator permissions to deploy resource gr
 
 In this walkthrough we create, configure, and deploy a container by using Azure Container Instances (ACI) in the Azure Portal. The container is a Welcome to ACI web application that displays a static HTML page. 
 
-##Task 1: Create a container instance 
+## Task 1: Create a container instance 
 
 In this task, we will create a new container instance for the web application.  
 
