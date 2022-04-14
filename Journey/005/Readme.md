@@ -147,3 +147,7 @@ In this task, we will try to test whether the virtual machines can communicate (
    ![11](https://user-images.githubusercontent.com/97246467/163364744-c1678423-e6db-4829-80b5-bbe14a19e9c1.PNG)
 
 **Congratulations!** You have configured and deployed two virtual machines in a virtual network, and then you were able to connect them.
+
+## Social Proof
+
+[Twitter](https://twitter.com/cyberjohn80/status/1514551539989454849)
