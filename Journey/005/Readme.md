@@ -1,17 +1,17 @@
 ![image](https://user-images.githubusercontent.com/97246467/163352852-a74ad9d1-f61f-482d-bc0c-a19291e9880e.png)
 
-## Introduction
+# Introduction
 I am currently working towards my AZ-900 exam and todays learning is all about creating, configuring, and deploying a container by using Azure Container Instances (ACI) in the Azure Portal, The following will walk through the process required to undertake this task.
 
 # Prerequisite
 
 An Azure subscription and enough administrator permissions to deploy resource groups, virtual networks, and virtual machines.
 
-# Create a virtual network (20 min)
+## Create a virtual network (20 min)
 
 In this walkthrough, we will create a virtual network, deploy two virtual machines onto that virtual network and then configure them to allow one virtual machine to ping the other within that virtual network.
 
-# Task 1: Create a virtual network 
+## Task 1: Create a virtual network 
 
 In this task, we will create a virtual network. 
 
@@ -72,7 +72,7 @@ In this task, we will create two virtual machines in the virtual network.
 
 7. Wait for both virtual machines to deploy and status says *running*.
 
-# Task 3: Test the connection 
+## Task 3: Test the connection 
 
 In this task, we will try to test whether the virtual machines can communicate (ping) each other. If not we will install a rule to allow an ICMP connection. Usually ICMP connections are automatically blocked.
 
