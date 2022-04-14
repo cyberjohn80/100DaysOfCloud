@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/97246467/163008185-110ef96e-d645-4355-843c-f9b778b8b338.png)
 
 ## Introduction
-I am currently working towards my AZ-900 exam and todays learning is all about configuring and deploying a Windows Virtual Machine, The following will walk through the process required to undertake this task.
+I am currently working towards my AZ-900 exam and todays learning is all about creating a Web App, The following will walk through the process required to undertake this task.
 
 ## Prerequisite
 
