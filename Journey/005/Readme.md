@@ -113,10 +113,17 @@ In this task, we will try to test whether the virtual machines can communicate (
 3. On the **Connect with RDP** blade, keep the default options to connect by IP address over port 3389 and click **Download RDP File**.
 
 4. Open the downloaded RDP file (located at the bottom left of you VM) and click **Connect** when prompted. 
+5. 
+![5](https://user-images.githubusercontent.com/97246467/163363673-ec5195e2-6a56-4bf7-beca-99a6db1cf4e7.PNG)
 
 5. In the **Windows Security** window, type the username **azureuser** and password **Pa$$w0rd1234** and then click **OK**.
 
 6. You may receive a certificate warning during the sign-in process. Click **Yes** to create the connection and connect to your deployed VM. You should connect successfully. Close the Windows Server and Dashboard windows that pop up. You should see a Blue Windows background. You are now in your virtual machine.
+
+
+    ![6](https://user-images.githubusercontent.com/97246467/163363794-5b008dd3-af48-46a8-9212-10e0808b3426.PNG)
+
+    ![7](https://user-images.githubusercontent.com/97246467/163363804-c4b50e96-ed36-4df3-bbfb-e3b0a4d127b9.PNG)
 
 7. In **both** newly created virtual machines, connect via RDP and disable both the public and private firewall by opening the Start menu > Settings > Network and Internet > Locate Windows Firewall.
 
