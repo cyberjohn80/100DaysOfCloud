@@ -3,7 +3,7 @@
 # Introduction
 I am currently working towards my AZ-900 exam and todays learning is all about creating, configuring, and deploying a container by using Azure Container Instances (ACI) in the Azure Portal, The following will walk through the process required to undertake this task.
 
-# Prerequisite
+## Prerequisite
 
 An Azure subscription and enough administrator permissions to deploy resource groups, virtual networks, and virtual machines.
 
@@ -34,7 +34,7 @@ Note: Before beginning the lab, disable both the public and private firewall in 
 4. Click the **Review + create** button. Ensure the validation passes. Then hit create to deploy the resource.
 
 
-# Task 2: Create two virtual machines
+## Task 2: Create two virtual machines
 
 In this task, we will create two virtual machines in the virtual network. 
 
