@@ -3,7 +3,7 @@
 ## Introduction
 I am currently working towards my AZ-900 exam and todays learning is all about creating, configuring, and deploying a container by using Azure Container Instances (ACI) in the Azure Portal, The following will walk through the process required to undertake this task.
 
-## Prerequisite
+# Prerequisite
 
 An Azure subscription and enough administrator permissions to deploy resource groups, virtual networks, and virtual machines.
 
