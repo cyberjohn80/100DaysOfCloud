@@ -99,15 +99,14 @@ In this task, we will try to test whether the virtual machines can communicate (
 
     ![1](https://user-images.githubusercontent.com/97246467/163362357-e40af252-13e6-477f-876f-297891d099bb.PNG)#
     
- 
-
-    ![4](https://user-images.githubusercontent.com/97246467/163362689-43e88f2b-838d-4276-a6a5-05bedee20685.PNG)
+    ![2](https://user-images.githubusercontent.com/97246467/163362417-b5d2d1b9-ccd7-40b4-bbb6-3389550c401b.PNG)
 
 2. On the **Overview** blade, select **Connect** and then select **RDP** from the drop down.
- 
-    ![2](https://user-images.githubusercontent.com/97246467/163362417-b5d2d1b9-ccd7-40b4-bbb6-3389550c401b.PNG)
-    
+
      ![3](https://user-images.githubusercontent.com/97246467/163362536-37e4bbdf-727c-4bb9-ada9-bc25e23e8118.PNG)
+     
+     
+    ![4](https://user-images.githubusercontent.com/97246467/163362689-43e88f2b-838d-4276-a6a5-05bedee20685.PNG)
 
     **Note**: The following directions tell you how to connect to your VM from a Windows computer. 
 
