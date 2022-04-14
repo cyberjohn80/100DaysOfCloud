@@ -7,7 +7,7 @@ I am currently working towards my AZ-900 exam and todays learning is all about c
 
 An Azure subscription and enough administrator permissions to deploy resource groups, virtual networks, and virtual machines.
 
-##Deploy Azure Container Instances (10 min)
+## Deploy Azure Container Instances (10 min)
 
 In this walkthrough we create, configure, and deploy a container by using Azure Container Instances (ACI) in the Azure Portal. The container is a Welcome to ACI web application that displays a static HTML page. 
 
