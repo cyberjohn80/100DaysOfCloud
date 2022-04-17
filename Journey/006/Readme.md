@@ -114,3 +114,6 @@ In this task, we will create a Blob container and upload a blob file.
 
 Congratulations! You have created a storage account, then worked with storage blobs.
 
+## Social Proof
+
+[Twitter](https://twitter.com/cyberjohn80/status/1514551539989454849)
