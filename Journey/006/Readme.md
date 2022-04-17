@@ -1,4 +1,4 @@
-**Add a cover photo like:**
+
 ![image](https://user-images.githubusercontent.com/97246467/163727263-2e3eef1e-29b7-47dc-a069-cfd3455c0d90.png)
 
 # Introduction
