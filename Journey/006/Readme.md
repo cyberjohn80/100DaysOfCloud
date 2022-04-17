@@ -116,4 +116,4 @@ Congratulations! You have created a storage account, then worked with storage bl
 
 ## Social Proof
 
-[Twitter](https://twitter.com/cyberjohn80/status/1514551539989454849)
+[Twitter](https://twitter.com/cyberjohn80/status/1515763948435431440)
